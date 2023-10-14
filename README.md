@@ -1,4 +1,4 @@
-# Academico
+# Academico - WORK IN PROGRESS
 
 Academico is a powerful academic paper search engine that allows users to discover, search, and access academic papers from various sources. This README provides essential information about the project, its features, and how to contribute.
 
